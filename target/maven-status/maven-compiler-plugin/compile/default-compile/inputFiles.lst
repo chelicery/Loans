@@ -1,0 +1,9 @@
+/home/bartek/eclipse-workspace/Loans2/src/main/java/domain/Person.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/filters/personFilter.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/domain/LoanApplication.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/domain/LoanParameters.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/filters/parametersFilter.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/filters/addressFilter.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/filters/successFilter.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/services/LoanService.java
+/home/bartek/eclipse-workspace/Loans2/src/main/java/domain/Address.java

@@ -1,0 +1,9 @@
+domain/LoanParameters.class
+domain/LoanApplication.class
+domain/Address.class
+filters/personFilter.class
+services/LoanService.class
+filters/addressFilter.class
+filters/parametersFilter.class
+domain/Person.class
+filters/successFilter.class
